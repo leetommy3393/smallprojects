@@ -11,4 +11,4 @@ Each project has its own README.md file that contains further and detailed infor
 ## Contact
 Feel free to contact me!
 - <leetommy.3393@gmail.com>
-- [LinkedIn](www.linkedin.com/in/tommy-lee-939b49264)
+- [LinkedIn](https://www.linkedin.com/in/tommy-lee-939b49264)
