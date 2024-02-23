@@ -47,3 +47,7 @@ File created: info.txt
 
 ### Contributors
 - Tommy Lee
+
+### Resources
+Here are some of the resources I used whilst making this project
+- [w3schools](https://www.w3schools.com/java/default.asp)
